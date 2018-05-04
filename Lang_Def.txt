@@ -7,6 +7,7 @@
   0x5 OUT
 
 • Instruction Definitions:
+       INST   STEP    II  IO  CE  CI  CO  MI  RI  RO  AI  AO  BI  BO  EO  SU  OI  SR      hex  
   FTCH xxx    0x0     0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   |   0C 00
   FTCH xxx    0x1     1   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   |   A1 00
   -------------------------------------------------------------------------------------------------
